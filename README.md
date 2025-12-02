@@ -30,4 +30,4 @@ Section Footer avec réseaux sociaux
 
 Design responsive pour mobile, tablette et desktop
 
-[portfolio](luc-dev.netlify.app)
+🌐 **Live Demo** : [Lucdev Portfolio](https://luc-dev.netlify.app)
