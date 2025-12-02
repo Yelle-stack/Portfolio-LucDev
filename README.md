@@ -3,6 +3,7 @@ Lucdev Portfolio est un portfolio interactif et moderne développé en React, Ty
 
 ## 🎨 Captures d’écran
 
+![image alt](https://github.com/Yelle-stack/Portfolio-LucDev/blob/4270cf29481ee41851cfb037c45b1d51034abe00/homepage.png)
 ## 🛠️ Technologies utilisées
 React – Frontend moderne et réactif
 
